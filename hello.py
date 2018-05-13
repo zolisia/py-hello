@@ -1,2 +1,2 @@
-msg = "Hello My Friends"
+msg = "Hakuna Matata"
 print(msg)
